@@ -120,4 +120,4 @@ Isso retornará uma lista formatada com todos os pilotos.
 Conclusão
 
 Este sistema de gestão de pilotos de Formula E oferece uma maneira eficiente e estruturada de gerenciar informações de pilotos e equipes. Com funções abrangentes para inserção, atualização, exclusão e consulta, além de uma interface de menu interativo, o sistema é uma ferramenta poderosa para organização e visualização de dados. Ele é ideal para fãs de Formula E, entusiastas de dados esportivos, ou qualquer pessoa interessada em gerenciamento de informações de equipes de corrida.
-![Uploading image.png…]()
+
