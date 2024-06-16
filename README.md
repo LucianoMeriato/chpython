@@ -79,8 +79,6 @@ pip install tabulate
 
 Para executar o sistema, basta rodar o script:
 
-python nome_do_arquivo.py
-
 O menu interativo será exibido, permitindo a escolha das opções desejadas.
 
 *Exemplo de Uso*
