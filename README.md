@@ -131,8 +131,8 @@ Isso retornará uma lista formatada com todos os pilotos.
 Este sistema de gestão de pilotos de Formula E oferece uma maneira eficiente e estruturada de gerenciar informações de pilotos e equipes. Com funções abrangentes para inserção, atualização, exclusão e consulta, além de uma interface de menu interativo, o sistema é uma ferramenta poderosa para organização e visualização de dados. Ele é ideal para fãs de Formula E, entusiastas de dados esportivos, ou qualquer pessoa interessada em gerenciamento de informações de equipes de corrida.
 
 
-*Ruan Melo: RM 557599*
-*Pedro Josué: RM 554913*
-*Rodrigo Jimenez; RM558148*
-*Mayla Maricato: RM557754*
-*Luciano Henrique Meriato Junior: RM554546*
+Ruan Melo: RM 557599
+Pedro Josué: RM 554913
+Rodrigo Jimenez; RM558148
+Mayla Maricato: RM557754
+Luciano Henrique Meriato Junior: RM554546
